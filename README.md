@@ -1,6 +1,7 @@
 
 Projeto de arquitetura MVC para site de notícias
-##Instalar dependencias: npm install
+
+## Instalar dependencias: npm install
 ## Iniciar : node app.js
 ## Link de host : http://localhost:5500/
 vArquitetura MVC
